@@ -1,0 +1,154 @@
+.intro-icon {}
+
+.intro-name {
+	font-size: 5.625rem;
+	color: initial;
+}
+
+.intro-para {
+	font-size: 2.5rem;
+	color: initial;
+}
+
+.intro {
+	background: #2DCDDF;
+	padding: 20px;
+}
+
+.bottom-container {}
+
+.attrib {
+	display: block;
+	font-size: .75rem;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.pc-icon {
+	width: 25%;
+	float: left;
+	padding-right: 30px;
+}
+
+.auto-icon {
+	width: 25%;
+	float: right;
+	padding-left: 30px;
+}
+
+.repair-icon {
+	width: 25%;
+	float: left;
+	padding-right: 30px;
+}
+
+.profile {
+	padding: 30px;
+}
+
+.profile-icon {
+	width: 25%;
+}
+
+.skills {
+	padding: 20px;
+}
+
+.contact-me {
+	width: 50%;
+	margin: 100px auto 100px auto;
+}
+
+.btn {
+  background: #6C00FF;
+  background-image: -webkit-linear-gradient(top, #6C00FF, #410596);
+  background-image: -moz-linear-gradient(top, #6C00FF, #410596);
+  background-image: -ms-linear-gradient(top, #6C00FF, #410596);
+  background-image: -o-linear-gradient(top, #6C00FF, #410596);
+  background-image: linear-gradient(to bottom, #6C00FF, #410596);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3c79f5;
+  background-image: -webkit-linear-gradient(top, #3c79f5, #3498db);
+  background-image: -moz-linear-gradient(top, #3c79f5, #3498db);
+  background-image: -ms-linear-gradient(top, #3c79f5, #3498db);
+  background-image: -o-linear-gradient(top, #3c79f5, #3498db);
+  background-image: linear-gradient(to bottom, #3c79f5, #3498db);
+  text-decoration: none;
+}
+
+.contact-header {
+	line-height: 2;
+}
+
+.contact-para {
+	line-height: 2;
+	margin-bottom: 60px;
+}
+
+.bottom-container {
+	background: #2DCDDF;
+	padding: 30px;
+}
+
+.footer-link {
+	margin: 10px 20px;
+	text-decoration: none;
+}
+
+.footer-link:hover {
+	color: #EA047E;
+}
+
+.copyright-message {
+	color: #F2DEBA;
+	font-size: .75rem;
+}
+
+h1 {
+	color: #6C00FF;
+}
+
+h2 {
+	color: #6C00FF;
+	font-weight: normal;
+}
+
+h3 {
+	color: #3C79F5;
+}
+
+a {
+	color: #6C00FF;
+}
+
+p {}
+
+hr {
+	border-style: dotted none none;
+	height: 0px;
+	border-width: 5px;
+	width: 6%;
+
+}
+
+body {
+	margin: 0;
+	text-align: center;
+	font-family: Sofia Sans;
+	background: #F2DEBA;
+}
